@@ -1,3 +1,5 @@
+The application contains the GoogleAPI(used to add the map in our application) and NasaAPI(used to access the data of the disasters)
+
 # Steps to setup the application
 
 ## Step 1
